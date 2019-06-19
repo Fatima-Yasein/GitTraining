@@ -1,1 +1,2 @@
 # GitTraining
+Added from github
